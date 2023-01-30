@@ -1,0 +1,26 @@
+header{
+    height:99px;
+    background-color: #4da2ff;
+    background-image: url('../img/pattern.png');
+    background-size: contain;
+    background-repeat: repeat-x;
+    color:white;
+    font-size: 35px;
+    line-height: 140px;
+    font-weight: bold;
+    text-shadow: 2px 2px black;
+}
+
+h1{
+    margin-bottom: -5px;
+}
+#author{
+    width:192px;
+    color: #8a8a8a;
+}
+
+#author>span{
+    color: #55ccff;
+}
+
+

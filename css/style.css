@@ -23,4 +23,16 @@ h1{
     color: #55ccff;
 }
 
+p>span{
+    background-color: #ffff00;
+}
+
+th{
+    color:white;
+    background-color: #1aabe6;
+}
+
+.tr-bg-colored{
+    background-color: #b2e6f2;
+}
 
